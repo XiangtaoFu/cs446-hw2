@@ -178,10 +178,15 @@ Done. In VS Code:
   1. Reload the window:  Ctrl+Shift+P  ->  Developer: Reload Window
      (Cmd+Shift+P on a Mac)
   2. Open the Chat view:  Ctrl+Alt+I   (Ctrl+Cmd+I on a Mac)
-  3. Click 'Models' at the bottom of the chat box and pick
-     '{added['models'][0]['name']}'
-  4. Add your API key to the models: click the + on the right, find the
-     '{GROUP_NAME}' models, right-click  ->  Update API Key, and paste your key.
+  3. Open the model menu: click the model name at the bottom of the chat box
+     (Copilot Fusion at first), or press Ctrl+Alt+. in the chat box
+     (Cmd+Option+. on a Mac). Then click the '{GROUP_NAME}' icon to the right
+     of Copilot, and pick '{added['models'][0]['name']}'
+  4. Add your API key to the models: click the + next to '{GROUP_NAME}'
+     (Add Models...), right-click a '{GROUP_NAME}' model  ->  Update API Key,
+     and paste your key.
+
+Pictures of steps 3 and 4: the setup guide on Canvas (SETUP_GUIDE.md in student.zip).
 
 If 'Custom Endpoint' is missing, VS Code is older than {MIN_VSCODE[0]}.{MIN_VSCODE[1]};
 update it (Help -> About shows the version).
