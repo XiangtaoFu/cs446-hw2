@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and submission bundles
+*.log
+*.bundle
+
+# Secrets: never commit keys or credentials.
+# GCP service account keys are .json files; keep them outside this repository.
+.env
+*.pem
