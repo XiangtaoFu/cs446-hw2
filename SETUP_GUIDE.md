@@ -52,27 +52,27 @@ you re-run the script or get a new key.
 4. Then click the **Course Gateway** icon, to the right of **Copilot** ②. The menu now
    lists the course models.
 
-   ![Open the model menu, then click the Course Gateway icon](images/1-open-model-picker.png)
+   ![Open the model menu, then click the Course Gateway icon](https://raw.githubusercontent.com/XiangtaoFu/cs446-hw2/assets/images/1-open-model-picker.png)
 
 5. Pick **Nemotron-Cascade-2-30B-A3B** ③.
 
-   ![Pick Nemotron-Cascade-2-30B-A3B from the Course Gateway list](images/2-pick-course-model.png)
+   ![Pick Nemotron-Cascade-2-30B-A3B from the Course Gateway list](https://raw.githubusercontent.com/XiangtaoFu/cs446-hw2/assets/images/2-pick-course-model.png)
 
 6. Click the **+** next to **Course Gateway** ④. Its tooltip says *Add Models...*.
 
-   ![The + next to Course Gateway](images/3-add-models-plus.png)
+   ![The + next to Course Gateway](https://raw.githubusercontent.com/XiangtaoFu/cs446-hw2/assets/images/3-add-models-plus.png)
 
 7. In the list that opens, find the **Course Gateway** group ⑤. Right-click one of its
    models, choose **Update API Key** ⑥, paste your key, and press Enter.
 
-   ![Right-click a Course Gateway model, then Update API Key](images/4-update-api-key.png)
+   ![Right-click a Course Gateway model, then Update API Key](https://raw.githubusercontent.com/XiangtaoFu/cs446-hw2/assets/images/4-update-api-key.png)
 
 8. Test it. Type a short message such as `hi` in the chat box and send it. If a reply comes
    back from **Nemotron-Cascade-2-30B-A3B**, everything is set up. The reply may say it is
    Copilot; that is normal, because VS Code tells it to say so, and your message still goes
    to the course server.
 
-   ![A reply from Nemotron-Cascade-2-30B-A3B](images/5-test-reply.png)
+   ![A reply from Nemotron-Cascade-2-30B-A3B](https://raw.githubusercontent.com/XiangtaoFu/cs446-hw2/assets/images/5-test-reply.png)
 
    If you get an error instead, find it in **When it does not work** below.
 
