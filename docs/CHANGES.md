@@ -3,5 +3,4 @@
 | Document version | Protocol version | Date | Changes |
 |---|---|---|---|
 | 1.0 | 1 | November 12, 2026 | First release. |
-
-The protocol version 2 change request will be added here on [FILL IN: change request date].
+| 2.0 | 2 | November 24, 2026 | Protocol version 2: request IDs and deadlines. See `CHANGE-REQUEST-v2.md`. |
