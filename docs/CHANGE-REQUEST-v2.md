@@ -52,4 +52,4 @@ Your final deployment on GCP (handout Section 7) runs version 2 of all three pro
 
 ## 6  Grading and questions
 
-Protocol version 2 is graded as described in the handout (Section 9, Table 5), with course tests that check both version 2 and version 1 requests. Questions about this change request: [Canvas discussion](https://umassboston.instructure.com/courses/45568/discussion_topics/269179).
+Protocol version 2 is graded as described in the handout (Section 9, Table 5), with course tests that check both version 2 and version 1 requests.
